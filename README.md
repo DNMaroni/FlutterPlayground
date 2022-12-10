@@ -2,7 +2,7 @@
 
 ## EX 01 - TELA LOGIN
 
-<img src="assets/TELA1.png">
+<img src="assets/TELA1.png" width="330px">
 <img src="assets/TELA1_copia.png">
 
 <div style="height: 2rem; diplay: block; width: 100%"></div>
