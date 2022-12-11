@@ -1,11 +1,23 @@
 # Flutter_Playground
 
-## EX 01 - TELA LOGIN
-
-<img src="assets/TELA1.png" width="330px">
-<img src="assets/TELA1_copia.png">
+Neste repositório faço exercícios do curso da flutterando
 
 <div style="height: 2rem; diplay: block; width: 100%"></div>
 
-## EX 01 - TELA LOGIN 2
-<img src="assets/TELA2.png">
+<hr>
+
+<div style="height: 2rem; diplay: block; width: 100%"></div>
+
+### TELA LOGIN UNDEFINED APP
+
+<img src="assets/app_comparation.png">
+
+
+<div style="height: 2rem; diplay: block; width: 100%"></div>
+
+<hr>
+
+<div style="height: 2rem; diplay: block; width: 100%"></div>
+
+### TELA LOGIN TINDER
+<img src="assets/tinder_comparation.png">

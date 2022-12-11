@@ -11,7 +11,10 @@ class AppUndefined extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset(width: 130, height: 130, 'assets/flutter.png'),
+            const SizedBox(
+              height: 40,
+            ),
+            Image.asset(width: 110, height: 110, 'assets/flutter.png'),
             const SizedBox(
               height: 20,
             ),
@@ -23,7 +26,7 @@ class AppUndefined extends StatelessWidget {
                   textAlign: TextAlign.center,
                   style: TextStyle(
                       color: Colors.white,
-                      fontSize: 35,
+                      fontSize: 32,
                       fontWeight: FontWeight.w500),
                 ),
                 const SizedBox(
@@ -32,7 +35,7 @@ class AppUndefined extends StatelessWidget {
                 const Text(
                   'Manage your expenses. Seamlessly.',
                   textAlign: TextAlign.center,
-                  style: TextStyle(color: Colors.grey, fontSize: 21),
+                  style: TextStyle(color: Colors.grey, fontSize: 20),
                 ),
                 const SizedBox(
                   height: 80,
