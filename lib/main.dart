@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'exercicios/tela_app_undefined.dart';
+import 'exercicios/animation_2_implicit.dart';
 
 void main() {
   runApp(const MyApp());
@@ -41,8 +41,11 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      body: AppUndefined(),
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Main Page'),
+      ),
+      body: const Animation2Implicit(),
     );
   }
 }
